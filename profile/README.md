@@ -1,6 +1,9 @@
 <p align="center"> <img src="https://www.wiredoor.net/images/wiredoor.svg" alt="Wiredoor logo" width="120" /> </p> 
 
-# Wiredoor
+<h1 align="center">
+  Wiredoor
+</h1>
+
 
 <p align="center">
   <strong>Expose private services securely through reverse VPN tunnels powered by WireGuard and NGINX.</strong><br />
@@ -8,9 +11,9 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.wiredoor.net">📚 Documentation</a> •
-  <a href="https://github.com/wiredoor/server">🧠 Core Server</a> •
-  <a href="https://charts.wiredoor.net">🚀 Helm Charts</a> •
+  <a href="https://docs.wiredoor.net">Documentation</a> •
+  <a href="https://github.com/wiredoor/server">Core Server</a> •
+  <a href="https://charts.wiredoor.net">Helm Charts</a> •
   <a href="https://github.com/sponsors/wiredoor">❤️ Sponsor</a>
 </p>
 
