@@ -1,0 +1,45 @@
+name: Bug Report
+description: Report a reproducible bug or problem with Wiredoor
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a bug! Please complete the following to help us reproduce the issue.
+  - type: input
+    id: environment
+    attributes:
+      label: Environment
+      description: What environment are you running Wiredoor in?
+      placeholder: e.g. Docker, K8s, Bare metal, Windows, Mac OS, etc.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: What steps did you take that triggered the bug?
+      placeholder: |
+        1. Run `wiredoor connect`
+        2. Expose a service with `wiredoor http`
+        3. Observe the error
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or error output
+      description: If applicable, paste logs or stack traces.
+      render: shell
+  - type: input
+    id: version
+    attributes:
+      label: Wiredoor version
+      placeholder: e.g. v0.1.3
