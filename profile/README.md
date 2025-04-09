@@ -1,9 +1,8 @@
 <p align="center"> <img src="https://www.wiredoor.net/images/wiredoor.svg" alt="Wiredoor logo" width="60" /> </p> 
 
-<h1 align="center">
+<h1 align="center" style="color: #1c398e">
   Wiredoor
 </h1>
-
 
 <p align="center">
   <strong>Expose private services securely through reverse VPN tunnel powered by WireGuard and NGINX.</strong><br />
