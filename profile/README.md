@@ -6,16 +6,15 @@
 
 
 <p align="center">
-  <strong>Expose private services securely through reverse VPN tunnels powered by WireGuard and NGINX.</strong><br />
-  Open-source. Self-hosted. Built for developers.
+  <strong>Expose private services securely through reverse VPN tunnel powered by WireGuard and NGINX.</strong><br />
+  Open-source | Self-hosted
 </p>
 
 <p align="center">
   <a href="https://docs.wiredoor.net">Documentation</a> •
   <a href="https://github.com/wiredoor/server">Core Server</a> •
   <a href="https://github.com/wiredoor/wiredoor-cli">CLI</a> •
-  <a href="https://charts.wiredoor.net">Helm Charts</a> •
-  <a href="https://github.com/sponsors/dmesad">❤️ Sponsor</a>
+  <a href="https://charts.wiredoor.net">Helm Charts</a>
 </p>
 
 ---
@@ -35,7 +34,7 @@ It's like your own self-hosted Ingress-as-a-Service.
 | [`Wiredoor Server`](https://github.com/wiredoor/wiredoor) | Core backend and UI managing tunnels and exposed services |
 | [`Wiredoor CLI`](https://github.com/wiredoor/cli) | Command-line tool to connect and manage nodes |
 | [`Charts`](https://github.com/wiredoor/charts) | Helm charts for deploying Wiredoor Gateway in Kubernetes |
-| [`Documentation`](https://wwww.wiredoor.net) | Full documentation and tutorials |
+| [`Documentation`](https://www.wiredoor.net) | Full documentation and tutorials |
 
 ---
 
@@ -47,7 +46,7 @@ It's like your own self-hosted Ingress-as-a-Service.
 
 Wiredoor is maintained by volunteers and open to contributors. If you'd like to support its development:
 
-[👉 Become a GitHub Sponsor](https://github.com/sponsors/wiredoor)
+[👉 Become a GitHub Sponsor](https://github.com/sponsors/dmesad)
 
 
 
