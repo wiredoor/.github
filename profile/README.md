@@ -31,7 +31,7 @@ It's like your own self-hosted Ingress-as-a-Service.
 | Repo | Description |
 |------|-------------|
 | [`Wiredoor Server`](https://github.com/wiredoor/wiredoor) | Core backend and UI managing tunnels and exposed services |
-| [`Wiredoor CLI`](https://github.com/wiredoor/cli) | Command-line tool to connect and manage nodes |
+| [`Wiredoor CLI`](https://github.com/wiredoor/wiredoor-cli) | Command-line tool to connect and manage nodes |
 | [`Charts`](https://github.com/wiredoor/charts) | Helm charts for deploying Wiredoor Gateway in Kubernetes |
 | [`Documentation`](https://www.wiredoor.net) | Full documentation and tutorials |
 
