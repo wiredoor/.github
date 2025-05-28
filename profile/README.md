@@ -45,7 +45,7 @@ It's like your own self-hosted Ingress-as-a-Service.
 
 Wiredoor is maintained by volunteers and open to contributors. If you'd like to support its development:
 
-[👉 Become a GitHub Sponsor](https://github.com/sponsors/dmesad)
+[👉 Become a GitHub Sponsor](https://github.com/sponsors/wiredoor)
 
 
 
